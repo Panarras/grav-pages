@@ -49,3 +49,5 @@ The `hero_classes` option allows a variety of hero classes to be set dynamically
 * `hero-fullscreen` | `hero-large` | `hero-medium` | `hero-small` | `hero-tiny` - Size of the hero block
 
 The `hero_image` should point to an image file in the current page folder.
+
+This is a test
